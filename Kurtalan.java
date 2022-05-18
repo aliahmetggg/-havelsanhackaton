@@ -157,7 +157,7 @@ public class Kurtalan {
         //System.out.println("total bakım: " + total_bakim/60.0);
         //System.out.println("total mola: " + total_mola/60.0);
         //System.out.println("total saat:" + dakika_counter /60.0);
-        //System.out.println("Sefer Sayısı:" + sefer);
+        System.out.println("Sefer Sayısı:" + sefer);
         return Integer.toString(sefer) + " " + Integer.toString(total_bakim) + " " + Integer.toString(total_mola); 
 
     }
@@ -278,7 +278,7 @@ public class Kurtalan {
         //System.out.println("total bakım: " + total_bakim/60.0);
         //System.out.println("total mola: " + total_mola/60.0);
         //System.out.println("total saat:" + dakika_counter /60.0);
-        //System.out.println("Sefer Sayısı:" + sefer);
+        System.out.println("Sefer Sayısı:" + sefer);
         return Integer.toString(sefer) + " " + Integer.toString(total_bakim) + " " + Integer.toString(total_mola);
     }
     
@@ -398,7 +398,7 @@ public class Kurtalan {
         //System.out.println("total bakım: " + total_bakim/60.0);
         //System.out.println("total mola: " + total_mola/60.0);
         //System.out.println("total saat:" + dakika_counter /60.0);
-        //System.out.println("Sefer Sayısı:" + sefer);
+        System.out.println("Sefer Sayısı:" + sefer);
         return Integer.toString(sefer) + " " + Integer.toString(total_bakim) + " " + Integer.toString(total_mola);
 
     }
