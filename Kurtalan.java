@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ali Ahmet
+ * @author Ali Ahmet Taskesen & Ege Gencoglu
  */
 public class Kurtalan {
 
